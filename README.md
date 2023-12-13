@@ -43,8 +43,10 @@
 ![git log 2](https://github.com/oumaa0/git-checkpoint/assets/153615550/6277fe6d-2d6a-4b5a-804e-f8427c1c25e0)
 
 #Change your global settings to core.pager=cat.
+
 ![pager cat](https://github.com/oumaa0/git-checkpoint/assets/153615550/c37ebb30-92a9-4341-a3e6-7d2820c267c9)
 
 #Write the appropriate command to list all the global configurations for git on your machine.
+
 ![global list](https://github.com/oumaa0/git-checkpoint/assets/153615550/b859c563-3157-4c82-b1f0-61fd640862fd)
 
