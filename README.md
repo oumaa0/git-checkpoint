@@ -16,7 +16,7 @@
 
 #Check out your commit with git log.
 
-![first git log](https://github.com/oumaa0/git-checkpoint/assets/153615550/dd74fd35-faab-4b87-bebe-c5a22c0b47cd)
+![log1](https://github.com/oumaa0/git-checkpoint/assets/153615550/a83c7318-147d-4e66-a66e-0b6ef953954a)
 
 #Add fourth.txt to the staging area.
 
@@ -40,7 +40,7 @@
 
 #Check out your commits using git log.
 
-![git log 2](https://github.com/oumaa0/git-checkpoint/assets/153615550/6277fe6d-2d6a-4b5a-804e-f8427c1c25e0)
+![log2](https://github.com/oumaa0/git-checkpoint/assets/153615550/849fa40a-21e9-4b52-b540-5eff060fc52b)
 
 #Change your global settings to core.pager=cat.
 
